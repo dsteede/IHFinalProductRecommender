@@ -1,5 +1,5 @@
 # Sephora Product Recommender - IH Final
-# Machine Learning Product Recommender Project
+## by Danielle Steede
 
 ## Overview
 This project focuses on developing a machine learning-based product recommender system tailored for the beauty industry. The recommender system utilizes customer ratings, "love" counts (or likes), and product prices to predict and suggest top products across various categories available in our store.
