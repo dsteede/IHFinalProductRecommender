@@ -32,3 +32,4 @@ This project focuses on developing a machine learning-based product recommender 
 
 Link to Presentation:  [Sephora Product Recommender](https://docs.google.com/presentation/d/1UNFjWFS6vpM6ZqR-cqcCAoXFdTas6bTH9AH89xf0Gj8/edit?usp=sharing)
 Link to Streamlit:  [Sephora Recommender](https://sephorarecommender.streamlit.app)
+Link to Trello: [Trello Board](https://trello.com/invite/b/4NK7DPF8/ATTI0dac7be47d6e9c6a4731477c51526103FDA58078/final-project-ih-sephora-product-recommender)
