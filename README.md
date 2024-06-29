@@ -11,12 +11,12 @@ This project focuses on developing a machine learning-based product recommender 
 
 ## Benefits to Customers
 
-## Enhanced Customer Experience
+- **Enhanced Customer Experience
 
 - Provides a quick and easy way for customers to identify well-rated and favored products in-store.
   - Useful during peak times and busy seasons when stores experience high foot traffic.
 
-## Support for Timid/Introverted Customers
+- **Support for Timid/Introverted Customers
 
 - Offers a method for customers who may feel uncomfortable asking for recommendations.
 
@@ -31,3 +31,4 @@ This project focuses on developing a machine learning-based product recommender 
 - **Real-time Updates:** Implementing real-time data updates to ensure recommendations reflect the latest customer preferences and trends.
 
 Link to Presentation:  [Sephora Product Recommender](https://docs.google.com/presentation/d/1UNFjWFS6vpM6ZqR-cqcCAoXFdTas6bTH9AH89xf0Gj8/edit?usp=sharing)
+Link to Streamlit:  [Sephora Recommender](https://sephorarecommender.streamlit.app)
